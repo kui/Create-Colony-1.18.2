@@ -1,0 +1,13 @@
+name = "Create-Colony-1.18.2"
+author = "Keiichiro UI"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d9d2ba7055cd5a5688768ba32a217fe7cfafbd3c630d2e7986c22da3373f765"
+
+[versions]
+forge = "40.1.51"
+minecraft = "1.18.2"

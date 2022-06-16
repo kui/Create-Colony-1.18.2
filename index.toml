@@ -1,0 +1,272 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".git/HEAD"
+hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+
+[[files]]
+file = ".git/config"
+hash = "cfe7ba1238c9a78be7535d7c63bcaf5a4d5011d46b07c9b45d3bbf7d6c312dfe"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "9c34ab6527211ec8605b2a563f5329ed8f66dbfbd11e677c78da6c3171085604"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "d6d114e507a3295ff3a2e214611c2f5c0d13eaf0ed53f595ba02e4cc714fca18"
+
+[[files]]
+file = ".git/hooks/pre-merge-commit.sample"
+hash = "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".mode"
+hash = "69dced1fc82b64513842ce628727ee18744ebe7cecbd16ed47c753b76873f9be"
+
+[[files]]
+file = ".packwizignore-development"
+hash = "8e1ca9dc744c0c9e0d1294bc0334a2a31387fe829c09dda1948de26131c034c1"
+
+[[files]]
+file = ".packwizignore-release"
+hash = "809f2f4ce8f71acc44f805c9ae44b958c96465797a37b05100d20434534ba2ef"
+
+[[files]]
+file = "Makefile"
+hash = "4a28cff9c584b1748faf8ecaecca66194eeaac2fbca8c5a649e2051631d0317d"
+
+[[files]]
+file = "README.md"
+hash = "1b0e9d7bc83ba387bc455376e99dc27022221e8e1a1e2a7a988bf81990890fde"
+
+[[files]]
+file = "curseforge.md"
+hash = "af636086d0bd0dd11dab5e681a0664e4c0a79bfe39d8390fa5e1522487fcb745"
+
+[[files]]
+file = "install_curseforge.bash"
+hash = "8b1485798d54cc8e13d6d0cc202082a42c116c4b5bb605bebef04cd49ac4ce0e"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "191b7a13538f73f7ca8553e4368d22e8675dcc6778df67e772f4e58b2fcd334a"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "131da55792beda303fa3526bf6b413ba43ca0a0a4a0b811f89d7c38dd6fe3df4"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "9bad544fb279411eb5d75a77f33a0b18cb7e1a90a9cd9dabf696c4628afed2ed"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "ad3789d2715553129d7b06f31429181564ce1cc0e2c6013387f44ee7f8eb2d18"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "81ad4e56179d918acb94960a2c6bf569715fe564c49b6b51076b590d3853dc9b"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "d22e39f722bf8ef2c78d1287422bb05a159837ca0ee1f304bba2f8f75173da18"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "9a7b5d7cf2ab9e3a45d4fdaab423c3028967c646b1364b4913cfa83a9df31895"
+metafile = true
+
+[[files]]
+file = "mods/create-plus.pw.toml"
+hash = "982a32847c347e0e30d49ecc7f9e74fd78fbb8d8ebcf3d0a0e44f189589615f5"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "6260854df98bee184f801f31b6a23459b55381896684ff75ade4a6a09ea665f7"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
+metafile = true
+
+[[files]]
+file = "mods/curious-elytra.pw.toml"
+hash = "6d300c55dc5fc2470e5534e1b44375691d5fda85dfafcc26b86ee7c73b447f3b"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "9f84fd71dcf5e035523e2d5051d215f8649247a64ecd723228749f4a1533d714"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "73d644b07a288484efb86cd033389a79a21664381932aa429cfd97913c4d91c9"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "1ad39bf13de8391ebd87c7788f18c61a45d823ca03496cfa67092088b1919bc5"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "7638c6fcf4af1039a9c99717ce8fb029ba7e7bec473994565e743d26da44a516"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5d6fe0f953047683daabefde8c6cafaa8c604287773e9940256c6e712b151347"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+hash = "7c33bdc81c588507e63f3560cc93ab081c550936fe51d513edeaafb40a31e10f"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "1e8dda8981f36db7c9369e295909f2413e87f5349034fd21fe141e774fea660f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "a895df4e74926896bb9bebedaf1996037d1f155dddfd7060e5bb51b90808e17c"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ffc23f3ccdf1d04c0856d81cb23bf0120afc50ef8de258354102f3ccfbfebee7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9ab2a1eeb68ee98b69221c1907527b304dae910f178382d66ddaca6af361d7c7"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "28af46997659a5645540aa228555f4bac91d15c8b5728d2d6e5ed5bc4dd5554f"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c213cbcd5d2eecff7d1d6a62c642c9a7f33355c98cc79cec37ff5212c359af03"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "62ad3231e9a2b433648058718e1c3dacf5be2df12761adae6001cf904b2f66e3"
+metafile = true
+
+[[files]]
+file = "swich_mode.bash"
+hash = "7bf80b1c9d46ed46328a377ee14050c5659cf965faba97bfd188b54863144451"
