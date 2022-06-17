@@ -1,6 +1,6 @@
 name = "Create-Colony-1.18.2"
 author = "Keiichiro UI"
-version = "1.0.0"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
