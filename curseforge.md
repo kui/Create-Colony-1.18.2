@@ -1,9 +1,15 @@
-# Contents
+# Mod List
+
+Only list those on which this mod directly depends.
+
+## Focused Contents
 
 * https://www.curseforge.com/minecraft/mc-mods/create
 * https://www.curseforge.com/minecraft/mc-mods/minecolonies
 * https://www.curseforge.com/minecraft/mc-mods/botania
 * https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
+
+## Support Contents
 
 * https://www.curseforge.com/minecraft/mc-mods/create-plus
 * https://www.curseforge.com/minecraft/mc-mods/comforts
@@ -11,7 +17,7 @@
 * https://www.curseforge.com/minecraft/mc-mods/storage-drawers
 * https://www.curseforge.com/minecraft/mc-mods/waystones
 
-# Utilities
+## Utilities
 
 * https://www.curseforge.com/minecraft/mc-mods/appleskin
 * https://www.curseforge.com/minecraft/mc-mods/carry-on
