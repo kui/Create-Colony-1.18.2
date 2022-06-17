@@ -10,7 +10,6 @@ My Minecraft modpack.
 Execute it for the release build:
 
 ```
-./swich_mode.bash release
 make
 ```
 
@@ -22,12 +21,11 @@ Then you can import the zip file into your CurseForge client.
 1. Build the develop build:
 
 ```
-./swich_mode.bash develop
-make
+make dev
 ```
 
 2. Import the zip file into your CurseForge client
-3. Edit config and try launching Minecraft
+3. Edit config and launch Minecraft
 
 
 ## Lint
