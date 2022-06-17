@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".git/COMMIT_EDITMSG"
+hash = "2a7946af23b7c7dfa85a56e75f46c6c1fc3783776d6d9e938aa51474054b8a43"
+
+[[files]]
 file = ".git/HEAD"
-hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+hash = "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
 
 [[files]]
 file = ".git/config"
-hash = "cfe7ba1238c9a78be7535d7c63bcaf5a4d5011d46b07c9b45d3bbf7d6c312dfe"
+hash = "69136d5ac523162ed2e8eeecb6963428e313b1f4c582e64e9cadcd8ec46fd6d4"
 
 [[files]]
 file = ".git/description"
@@ -61,8 +65,84 @@ file = ".git/hooks/update.sample"
 hash = "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431"
 
 [[files]]
+file = ".git/index"
+hash = "c58402a05aee5c9dd950008f45dbe5da8175080bf4f6cdb7d37be19579a26364"
+
+[[files]]
 file = ".git/info/exclude"
 hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "169d7b65229d6445457903a750e8a6307963e179c00c4eacd0faa8c733a2b556"
+
+[[files]]
+file = ".git/logs/refs/heads/main"
+hash = "a0d94b7490629800216186e5afad3a97e2bfeff88acb1eb1de650a6b6e1f6e70"
+
+[[files]]
+file = ".git/logs/refs/remotes/origin/main"
+hash = "551151922c7afe02b630971ba6350c34a694be3192ca5fecf14896339e58bae3"
+
+[[files]]
+file = ".git/objects/01/9be7128f7d82b426b650d336b352195302fd9d"
+hash = "0937d369f53f1940a2d4bcacbfce8cb2ea34d24acc2718b52987ab16c8150c98"
+
+[[files]]
+file = ".git/objects/06/a315fd9eec9a687757661e5be62c7e6dc868e0"
+hash = "af4a3160a2987f3f8dd95d9bba2604caf23abb881f3e2829347b706619db8fc0"
+
+[[files]]
+file = ".git/objects/0c/57e738e45722921a27f2df0e96acfbfe9cbeb4"
+hash = "040ff737638c3dee3951f76fdc39fae0f01ab36c86af8cfae1d44e50d5161bd6"
+
+[[files]]
+file = ".git/objects/30/d643fa172dd7ea1f835a08f1bdb39e3ed1042c"
+hash = "c79c9eee19f5e7fb2047008cbd26a946e901a3aec6fdd5cceb0fb4b7bbb40daf"
+
+[[files]]
+file = ".git/objects/63/1f365332d7ef7cfa523340cc6f1cd76a28749c"
+hash = "47e7d9ff6bb0aeb1f3054075a4c4facfc9044bcc497a8edb83ef4d3ebada7394"
+
+[[files]]
+file = ".git/objects/96/d44695301399d55184b4e4f8d44087a2e73a11"
+hash = "d2ec7b4c01dce5942c67dc430d8fa86387cb4793f410d5b708e26d99723813f6"
+
+[[files]]
+file = ".git/objects/9e/1619005df90f9d8ba48ecdfc050dbb7dde9adf"
+hash = "288bb17ebcf3e7a18ad34fb54dedbb00f0c57dd1b94f73bd22e4235f51c035fc"
+
+[[files]]
+file = ".git/objects/c5/96b7a3dc9fd5ef69dd1d5ee670e2dbf424676f"
+hash = "611ee99a4a8aa786851ed8b5fd1255eed4985dc23f27de39f1b7f45be4d7b350"
+
+[[files]]
+file = ".git/objects/d2/f995de4e38fe6ea0f68f931ac0acd897f406da"
+hash = "18de8726398f4915552ad409ef96a784bac9872accdb873067c9ea448d1e6aee"
+
+[[files]]
+file = ".git/objects/e0/cedb584177da62152b8fc75355ba5b87119b1f"
+hash = "8ccb861e7fe78b29753bbadc1296a2af40717840a848d03dbaa18d1e4fa49290"
+
+[[files]]
+file = ".git/objects/ee/05020fa2ddb9e9e11c63a231a6daca7e8edaa9"
+hash = "556e8f2d38f39d88c2912884d1c92a891f9dd1a0260f8de1af544e0d405cf3e7"
+
+[[files]]
+file = ".git/objects/f2/6e5d08f10300a116f6e591ca735cb8a5b3510e"
+hash = "e407505a2fed0ee7192d916eae846023f1b8f96dfe30f1ca4ca79a730c68abdd"
+
+[[files]]
+file = ".git/refs/heads/main"
+hash = "0e1791243172ae87aa71e76652c12867c63b3c20744ece2aeeaa7c6b149f744f"
+
+[[files]]
+file = ".git/refs/remotes/origin/main"
+hash = "0e1791243172ae87aa71e76652c12867c63b3c20744ece2aeeaa7c6b149f744f"
+
+[[files]]
+file = ".github/workflows/modpack.yml"
+hash = "5b25160409e11bba1eaf7b7a2c849a324410ba4286643053b7cabbf7f07975d0"
 
 [[files]]
 file = ".mode"
@@ -78,11 +158,11 @@ hash = "809f2f4ce8f71acc44f805c9ae44b958c96465797a37b05100d20434534ba2ef"
 
 [[files]]
 file = "Makefile"
-hash = "4a28cff9c584b1748faf8ecaecca66194eeaac2fbca8c5a649e2051631d0317d"
+hash = "0bb2061ebc0fcee6165137e24af180b675c602771d7f88444fb5c794bb179a2f"
 
 [[files]]
 file = "README.md"
-hash = "1b0e9d7bc83ba387bc455376e99dc27022221e8e1a1e2a7a988bf81990890fde"
+hash = "9d239666d49f6c0698f6a26313ad579e0b2905ecaa29da0bf8c64a2f9bb6d168"
 
 [[files]]
 file = "curseforge.md"
@@ -266,6 +346,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "62ad3231e9a2b433648058718e1c3dacf5be2df12761adae6001cf904b2f66e3"
 metafile = true
+
+[[files]]
+file = "packname.bash"
+hash = "79d67a7e96054dcd9ffa942289fd1ddffe61e00226f735faeb6229d7e75f9080"
 
 [[files]]
 file = "swich_mode.bash"

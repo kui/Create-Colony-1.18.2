@@ -1,11 +1,20 @@
-Create-Colony-1.18.2-1.0.0.zip: mods index.toml pack.toml .packwizignore
-	packwiz curseforge export
+ZIP := $(shell ./packname.bash)
+DEV_ZIP := $(shell ./packname.bash -dev)
+
+$(ZIP): mods index.toml pack.toml .packwizignore-release
+	cp .packwizignore-release .packwizignore
+	packwiz curseforge export -o $@
+
+.PHONY: dev
+dev: $(DEV_ZIP)
+$(DEV_ZIP): mods index.toml pack.toml .packwizignore-development
+	cp .packwizignore-development .packwizignore
+	packwiz curseforge export -o $@
+
 mods: curseforge.md
 	rm -fr mods/*.pw.toml
 	./install_curseforge.bash
 	touch mods
-.packwizignore: .packwizignore-*
-	./swich_mode.bash
 
 .PHONY: lint
 lint: 
