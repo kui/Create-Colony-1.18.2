@@ -13,6 +13,8 @@ jobs:
     - run: go install github.com/packwiz/packwiz@b8d9727
     - run: make
     - run: unzip -l *.zip
+    - run: echo ARTIFACT=$(./packname.bash) >> $GITHUB_ENV
     - uses: actions/upload-artifact@v3
       with:
-        path: '*.zip'
+        name: ${{env.ARTIFACT}}
+        path: ${{env.ARTIFACT}}
