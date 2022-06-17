@@ -22,4 +22,4 @@ lint:
 	shellcheck *.bash
 	cp .packwizignore-release .packwizignore
 	packwiz refresh
-	git diff --exit-code --stat
+	git diff --exit-code
