@@ -1,0 +1,16 @@
+name: Lint
+on:
+- push
+- pull_request
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-go@v3
+      with:
+        go-version: ^1.18.3
+    - run: go install mvdan.cc/sh/v3/cmd/shfmt@v3.5.1
+    - run: go install github.com/packwiz/packwiz@b8d9727
+    - run: sudo apt install shellcheck
+    - run: make lint

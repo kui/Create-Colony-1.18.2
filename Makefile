@@ -17,9 +17,9 @@ mods: curseforge.md
 	touch mods
 
 .PHONY: lint
-lint: 
-	shfmt -w *.bash
+lint: mods
+	shfmt --diff *.bash
 	shellcheck *.bash
 	cp .packwizignore-release .packwizignore
 	packwiz refresh
-	git diff --exit-code --stat
+	git diff --exit-code
