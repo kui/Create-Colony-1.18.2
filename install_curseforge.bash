@@ -3,17 +3,13 @@
 set -eux
 
 main() {
-	trim <curseforge.md | while read -r line; do
-		yes | packwiz curseforge install "$line"
+	urls | while read -r url; do
+		yes | packwiz curseforge install "$url"
 	done
 }
 
-trim() {
-	# Strip comments
-	# Strip whitespaces in the begin
-	# Strip whitespaces in the end
-	# Strip empty lines
-	sed -re 's!#.*!!; s!^\s*!!; s!\s*$!!; /^$/d'
+urls() {
+	grep -Eo 'https://www.curseforge.com/minecraft/mc-mods/[[:graph:]]*' <curseforge.md
 }
 
 main
