@@ -1,0 +1,17 @@
+name: Build Modpack
+on:
+- push
+- pull_request
+jobs:
+  build:
+    steps:
+    - uses: actions/checkout@3
+    - uses: actions/setup-go@v3
+      with:
+        go-version: ^1.18.3
+    - run: go install github.com/packwiz/packwiz@b8d9727
+    - run: make
+    - run: unzip -l *.zip
+    - uses: actions/upload-artifact@v3
+      with:
+        path: '*.zip'
