@@ -20,3 +20,6 @@ mods: curseforge.md
 lint: 
 	shfmt -w *.bash
 	shellcheck *.bash
+	cp .packwizignore-release .packwizignore
+	packwiz refresh
+	git diff --exit-code --stat
