@@ -17,7 +17,7 @@ mods: curseforge.md
 	touch mods
 
 .PHONY: lint
-lint: 
+lint: mods
 	shfmt --diff *.bash
 	shellcheck *.bash
 	cp .packwizignore-release .packwizignore
