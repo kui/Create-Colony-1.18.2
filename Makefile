@@ -18,8 +18,8 @@ mods: curseforge.md
 
 .PHONY: lint
 lint: 
-	shfmt -w *.bash
+	shfmt --diff *.bash
 	shellcheck *.bash
 	cp .packwizignore-release .packwizignore
 	packwiz refresh
-	git diff --exit-code --stat
+	git diff --exit-code
