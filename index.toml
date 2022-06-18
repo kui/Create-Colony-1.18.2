@@ -1,6 +1,126 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+
+[[files]]
+file = "config/botania-client.toml"
+hash = "3e96d7f471846a8349c319e8ea876146e8216530b977f830c86b016b5a76ab89"
+
+[[files]]
+file = "config/botania-common.toml"
+hash = "ebe7ffdc57d5ebc197b3f333bb777bba2c2a22a9ac3c6f1cbd1342848dd6bae9"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "737c6f33b53eceb7ca503ac8f8fd96c0d186d820568b92919cb0040ea82006eb"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "32458f4c0921de29374918adbec133beed0aea932db0e98014448fcaf85f6461"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "37f49cac91de3cbd44b023c9ba78533cf6fd4402c36da1983fb4055ae99bac76"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "9c38c6c61cee2b7ce9ca30abfc1365884eebbdf51705798d71854979d2643923"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "f739eba9578f1bc5419e2365f70f15e634e725f58455203e20ca01b4517f6ace"
+
+[[files]]
+file = "config/fml.toml"
+hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "4067230dfa621fdd773dda56b6bb64138af220a669e1fc4c51256d4109e6182b"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
+
+[[files]]
+file = "config/gravestone-client.toml"
+hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
+
+[[files]]
+file = "config/minecolonies-client.toml"
+hash = "0823638d4b89172b8e62488b3cdb1ecc340c26ab45a6bfb53b2227b16f2eaf78"
+
+[[files]]
+file = "config/minecolonies-common.toml"
+hash = "7777e4194af00991975275022b3f5808ec25aa574fdfa3193c61f689a4afc6e0"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "37f6a9b53c5ed0114c8539256f0222be96abff36a8f4b162d259073f4bc1879d"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "f41d6fc7c5fe64dd054313c9ff1da575d2bfe0f4da54546f353f7f642e8d71b7"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "48e045efb78607ff217eb278f817f1036039d99e38715ef9a9c6e1f5bafbc24c"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "1816df3dd000ea916b4548c7acfad9ce39b5f7f559f3e3a304997b01f625cb74"
+
+[[files]]
+file = "config/steampowered-common.toml"
+hash = "ff4f74bfb0e592335255fd4e3e150492e27dc28fcdefc9b957d503d8cf2d1a51"
+
+[[files]]
+file = "config/storagedrawers-client.toml"
+hash = "d415eb8cd30b4cefca7f3ff1d0249c39447fb3f1cec618d5491ef9e88b880402"
+
+[[files]]
+file = "config/storagedrawers-common.toml"
+hash = "fe186891b497287dd2e784a3e0a735d6c0755b01c3b317912ad9417b34fffd95"
+
+[[files]]
+file = "config/theoneprobe-client.toml"
+hash = "fd74ad59f8cc516acb4845c66514fb87081bfae7e3d9ef34ed1ce75e1aaa1aa8"
+
+[[files]]
+file = "config/theoneprobe-common.toml"
+hash = "e243d4b815b4a5c3491fb60ed5a211462505af9d15d3227593326918b4b24cb3"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "6ec5bdab5c65ad66d39698efc43c47ea67d6441a634c14277ef0a303714cbab3"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "c80d212c49dd9f8c9e542ddd45eed5bd2570eccb40082f08d168f0764c189520"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "0c32b7fc546e781cd46bb47aba5275075371fade53788f5d6cd2a185e72e11a5"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "cf2dcdca67076c7b59573140082f166da0c260cf932120eee956632f2e6870f6"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "191b7a13538f73f7ca8553e4368d22e8675dcc6778df67e772f4e58b2fcd334a"
 metafile = true
@@ -71,6 +191,11 @@ hash = "9f84fd71dcf5e035523e2d5051d215f8649247a64ecd723228749f4a1533d714"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "ebc14410f6445a96ba8f9e89d3db9332c3a9776321b61840b93c0970be0a12ac"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "73d644b07a288484efb86cd033389a79a21664381932aa429cfd97913c4d91c9"
 metafile = true
@@ -118,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "ed0fcdae68f0f046f6b25c7e8da92b37b5a29aeab8d399e0f2514a3186b1d641"
 metafile = true
 
 [[files]]
@@ -169,3 +299,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "190fecdf68f0b26083782f2175a71133e01659a1268390f72749d9d28953569b"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "f49b049f73820ea212d100bac1611e7b08707e6f97c89e0b2b5ba82870b9ab30"

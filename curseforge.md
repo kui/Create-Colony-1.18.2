@@ -19,6 +19,7 @@ Only list mods on which this modpack directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
 * https://www.curseforge.com/minecraft/mc-mods/storage-drawers
 * https://www.curseforge.com/minecraft/mc-mods/waystones
+* https://www.curseforge.com/minecraft/mc-mods/easy-villagers
 
 ## Utilities
 
@@ -37,3 +38,4 @@ Only list mods on which this modpack directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/gravestone-mod
 * https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings
 * https://www.curseforge.com/minecraft/mc-mods/curios
+* https://www.curseforge.com/minecraft/mc-mods/polymorph
