@@ -20,6 +20,7 @@ Only list mods on which this modpack directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/storage-drawers
 * https://www.curseforge.com/minecraft/mc-mods/waystones
 * https://www.curseforge.com/minecraft/mc-mods/easy-villagers
+* https://www.curseforge.com/minecraft/mc-mods/idas
 
 ## Utilities
 

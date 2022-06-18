@@ -1,0 +1,13 @@
+name = "Selene Lib"
+filename = "selene-1.18.2-1.17.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "768934ce1c0d6da00b4e49d346042de1103b76db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3828748
+project-id = 499980
