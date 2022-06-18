@@ -3,7 +3,21 @@
 /*.bash
 /*.md
 /Makefile
-/config.json
-/manifest.json
-/mods/*.jar
+
+# From .gitignore
+/config/jei/
+/logs/
 /natives/
+/mods/*.jar
+/resourcepacks/
+/saves/
+/XaeroWaypoints/
+/XaeroWorldMap/
+/*.zip
+/.packwizignore
+/config.json
+/config.bak.json
+/manifest.json
+/patchouli_data.json
+/usercache.json
+/usernamecache.json
