@@ -7,7 +7,6 @@ Only list mods on which this modpack directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/create
 * https://www.curseforge.com/minecraft/mc-mods/minecolonies
 * https://www.curseforge.com/minecraft/mc-mods/botania
-* https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
 
 ## Addon Contents
 

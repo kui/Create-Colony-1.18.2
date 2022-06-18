@@ -101,11 +101,6 @@ hash = "7c33bdc81c588507e63f3560cc93ab081c550936fe51d513edeaafb40a31e10f"
 metafile = true
 
 [[files]]
-file = "mods/mantle.pw.toml"
-hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "1e8dda8981f36db7c9369e295909f2413e87f5349034fd21fe141e774fea660f"
 metafile = true
@@ -158,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
 metafile = true
 
 [[files]]
