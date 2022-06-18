@@ -1,3 +1,6 @@
 /*.zip
 /.packwizignore
-/.mode
+/mods/*.jar
+/config.json
+/manifest.json
+/natives/

@@ -3,3 +3,7 @@
 /*.bash
 /*.md
 /Makefile
+/config.json
+/manifest.json
+/mods/*.jar
+/natives/

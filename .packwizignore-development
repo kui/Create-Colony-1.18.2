@@ -1,1 +1,11 @@
 !/.git
+!/.gitignore
+!/.gitattributes
+!/pack.toml
+!/index.toml
+
+/*.zip
+/config.json
+/manifest.json
+/mods/*.jar
+/natives/
