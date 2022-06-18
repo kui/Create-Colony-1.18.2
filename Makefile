@@ -21,8 +21,7 @@ mods: curseforge.md
 lint: mods
 	shfmt --diff *.bash
 	shellcheck *.bash
-	cp .packwizignore-release .packwizignore
-	packwiz refresh
+	make refresh
 	git diff --exit-code
 
 .PHONY: refresh
