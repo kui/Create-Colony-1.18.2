@@ -1,6 +1,6 @@
 # Mod List
 
-Only list those on which this mod directly depends.
+Only list mods on which this modpack directly depends.
 
 ## Focused Contents
 
@@ -9,9 +9,13 @@ Only list those on which this mod directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/botania
 * https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
 
+## Addon Contents
+
+* https://www.curseforge.com/minecraft/mc-mods/steam-powered-create
+* https://www.curseforge.com/minecraft/mc-mods/create-plus
+
 ## Support Contents
 
-* https://www.curseforge.com/minecraft/mc-mods/create-plus
 * https://www.curseforge.com/minecraft/mc-mods/comforts
 * https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
 * https://www.curseforge.com/minecraft/mc-mods/storage-drawers

@@ -141,6 +141,11 @@ hash = "9ab2a1eeb68ee98b69221c1907527b304dae910f178382d66ddaca6af361d7c7"
 metafile = true
 
 [[files]]
+file = "mods/steam-powered-create.pw.toml"
+hash = "2f953e27071b1e6b0e4cae0f392cf76cb0f03d832f64611045f072aeecf044c6"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
 metafile = true
