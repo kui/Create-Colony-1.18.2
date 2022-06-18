@@ -106,11 +106,11 @@ hash = "6ec5bdab5c65ad66d39698efc43c47ea67d6441a634c14277ef0a303714cbab3"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "c80d212c49dd9f8c9e542ddd45eed5bd2570eccb40082f08d168f0764c189520"
+hash = "f7d86ff5da9cffd4801e0c8cf7c47c4220b839fe5fbbc2e5d9dc4032f7931ed1"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "0c32b7fc546e781cd46bb47aba5275075371fade53788f5d6cd2a185e72e11a5"
+hash = "78657f79d9749b6aca664faac7cc4843fd2839d136cb30c2c235e215713787af"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -302,4 +302,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f49b049f73820ea212d100bac1611e7b08707e6f97c89e0b2b5ba82870b9ab30"
+hash = "3d13f33cf31932d141115b3e349032e67fef88fa8e3b7de90e97c105aa3a51cd"
