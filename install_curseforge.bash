@@ -2,7 +2,11 @@
 
 set -eux
 
+cd "$(dirname "$0")"
+
 main() {
+	cp .packwizignore-release .packwizignore
+
 	urls | while read -r url; do
 		yes | packwiz curseforge install "$url"
 	done

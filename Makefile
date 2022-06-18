@@ -10,6 +10,7 @@ dev: $(DEV_ZIP)
 $(DEV_ZIP): mods index.toml pack.toml .packwizignore-development
 	cp .packwizignore-development .packwizignore
 	packwiz curseforge export -o $@
+	make refresh
 
 mods: curseforge.md
 	rm -fr mods/*.pw.toml
@@ -23,3 +24,8 @@ lint: mods
 	cp .packwizignore-release .packwizignore
 	packwiz refresh
 	git diff --exit-code
+
+.PHONY: refresh
+refresh:
+	cp .packwizignore-release .packwizignore
+	packwiz refresh
