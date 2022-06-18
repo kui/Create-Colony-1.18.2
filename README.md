@@ -24,8 +24,14 @@ Then you can import the zip file into your CurseForge client.
 make dev
 ```
 
-2. Import the zip file into your CurseForge client
-3. Edit config and launch Minecraft
+2. Import the `-dev.zip` file into your CurseForge client
+3. Restore some files
+
+```
+git restore .
+```
+
+4. You can develop and try to launch this modpack.
 
 
 ## Lint

@@ -1,8 +1,6 @@
 !/.git
 !/.gitignore
 !/.gitattributes
-!/pack.toml
-!/index.toml
 
 /*.zip
 /config.json
