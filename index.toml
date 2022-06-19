@@ -349,6 +349,10 @@ file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 
 [[files]]
+file = "config/easy_villagers-client.toml"
+hash = "d09a0b6362e4d8f43caf45df96a7712eda21345625e4473ca42848bcd38326fd"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "9c38c6c61cee2b7ce9ca30abfc1365884eebbdf51705798d71854979d2643923"
 
