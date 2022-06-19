@@ -9,6 +9,10 @@ file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
 [[files]]
+file = "config/betteradvancements-client.toml"
+hash = "9376911f8431f28c6d7cef493ac8466491a79961793096385ad2e88aea4ffdf2"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "3e96d7f471846a8349c319e8ea876146e8216530b977f830c86b016b5a76ab89"
 
@@ -57,6 +61,14 @@ file = "config/gravestone-client.toml"
 hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
 
 [[files]]
+file = "config/jeresources-common.toml"
+hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
+
+[[files]]
+file = "config/jeresources.toml"
+hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
+
+[[files]]
 file = "config/minecolonies-client.toml"
 hash = "0823638d4b89172b8e62488b3cdb1ecc340c26ab45a6bfb53b2227b16f2eaf78"
 
@@ -67,6 +79,10 @@ hash = "7777e4194af00991975275022b3f5808ec25aa574fdfa3193c61f689a4afc6e0"
 [[files]]
 file = "config/patchouli-client.toml"
 hash = "37f6a9b53c5ed0114c8539256f0222be96abff36a8f4b162d259073f4bc1879d"
+
+[[files]]
+file = "config/polymorph-integrations.toml"
+hash = "f7105f137b1ba3c8a47891031e9ff4cb3167d76575fb8502616610833be98842"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
