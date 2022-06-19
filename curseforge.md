@@ -12,6 +12,7 @@ Only list mods on which this modpack directly depends.
 
 * https://www.curseforge.com/minecraft/mc-mods/steam-powered-create
 * https://www.curseforge.com/minecraft/mc-mods/create-plus
+* https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions
 
 ## Support Contents
 

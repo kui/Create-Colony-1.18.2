@@ -4,12 +4,13 @@
 
 # From .gitignore
 /config/jei/
+/crash-reports/
 /logs/
 /natives/
 /mods/*.jar
 /resourcepacks/
 /saves/
-/XaeroWaypoints/
+/XaeroWaypoints*/
 /XaeroWorldMap/
 /*.zip
 /.packwizignore

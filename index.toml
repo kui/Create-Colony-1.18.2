@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "XaeroWaypoints_BACKUP032021/AmberApple/config.txt"
-hash = "11580b3637ad701da4ee9daf15ce4b7b42eba5244227d8b3bab811af8c53559f"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -446,7 +442,7 @@ hash = "d0e3cda009c04d900e9a230593c0bafd26f171d22258a33008231da8606efdbb"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "afdd6fe8e49167aeeb565854a0a76fb558bd1f28fed8f41a097f55e266a05fb6"
+hash = "64ec2735e0c0d84ef50bbc4aab5bd879c7a006f733832d3d3259eda3b8817fcd"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -455,10 +451,6 @@ hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "cf2dcdca67076c7b59573140082f166da0c260cf932120eee956632f2e6870f6"
-
-[[files]]
-file = "crash-reports/crash-2022-06-18_23.27.45-server.txt"
-hash = "5c9fdb49fe098f902aa2f76f9dcb697b377bb9364a4d0c409441937e1c1c766e"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -526,6 +518,11 @@ hash = "982a32847c347e0e30d49ecc7f9e74fd78fbb8d8ebcf3d0a0e44f189589615f5"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "5a7b966d8276fce0b2f5ab29728451e3dc93d7e88e61a0bb3caa797bf28328d9"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6260854df98bee184f801f31b6a23459b55381896684ff75ade4a6a09ea665f7"
 metafile = true
@@ -582,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5d6fe0f953047683daabefde8c6cafaa8c604287773e9940256c6e712b151347"
+hash = "84423127e3a25f8af1c67d4d583511c96952007fcf64feddc00726ad79db26d3"
 metafile = true
 
 [[files]]
@@ -592,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1e8dda8981f36db7c9369e295909f2413e87f5349034fd21fe141e774fea660f"
+hash = "d744a20684bcd4c6419386a4f88404e1821a4f984cffc8accfc25f28af8a4097"
 metafile = true
 
 [[files]]
@@ -682,4 +679,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f49b049f73820ea212d100bac1611e7b08707e6f97c89e0b2b5ba82870b9ab30"
+hash = "f1ffdd001d897de358949038865df670bc6fd13000769cf6f67bb421690e7219"
