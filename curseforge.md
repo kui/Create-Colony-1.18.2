@@ -32,7 +32,7 @@ Only list mods on which this modpack directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
 * https://www.curseforge.com/minecraft/mc-mods/curious-elytra
 * https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge
-* https://www.curseforge.com/minecraft/mc-mods/jei
+* https://www.curseforge.com/minecraft/mc-mods/jei/files/3821390
 * https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 * https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 * https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
