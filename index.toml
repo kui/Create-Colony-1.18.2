@@ -171,6 +171,11 @@ hash = "982a32847c347e0e30d49ecc7f9e74fd78fbb8d8ebcf3d0a0e44f189589615f5"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "5a7b966d8276fce0b2f5ab29728451e3dc93d7e88e61a0bb3caa797bf28328d9"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6260854df98bee184f801f31b6a23459b55381896684ff75ade4a6a09ea665f7"
 metafile = true
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5d6fe0f953047683daabefde8c6cafaa8c604287773e9940256c6e712b151347"
+hash = "84423127e3a25f8af1c67d4d583511c96952007fcf64feddc00726ad79db26d3"
 metafile = true
 
 [[files]]
@@ -227,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1e8dda8981f36db7c9369e295909f2413e87f5349034fd21fe141e774fea660f"
+hash = "d744a20684bcd4c6419386a4f88404e1821a4f984cffc8accfc25f28af8a4097"
 metafile = true
 
 [[files]]
