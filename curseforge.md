@@ -40,3 +40,6 @@ Only list mods on which this modpack directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings
 * https://www.curseforge.com/minecraft/mc-mods/curios
 * https://www.curseforge.com/minecraft/mc-mods/polymorph
+* https://www.curseforge.com/minecraft/mc-mods/spark
+* https://www.curseforge.com/minecraft/mc-mods/better-advancements
+* https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer

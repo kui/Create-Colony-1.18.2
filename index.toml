@@ -131,6 +131,11 @@ hash = "131da55792beda303fa3526bf6b413ba43ca0a0a4a0b811f89d7c38dd6fe3df4"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6438b4903ab9cd6fac47ea2cc08d75554f5f94dc6ae794f012160d9231cc935f"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "9bad544fb279411eb5d75a77f33a0b18cb7e1a90a9cd9dabf696c4628afed2ed"
 metafile = true
@@ -231,6 +236,11 @@ hash = "7c33bdc81c588507e63f3560cc93ab081c550936fe51d513edeaafb40a31e10f"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "d744a20684bcd4c6419386a4f88404e1821a4f984cffc8accfc25f28af8a4097"
 metafile = true
@@ -268,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9ab2a1eeb68ee98b69221c1907527b304dae910f178382d66ddaca6af361d7c7"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
 metafile = true
 
 [[files]]
