@@ -1,5 +1,4 @@
 /.*
-/*.zip
 /*.bash
 /*.md
 /Makefile
@@ -22,3 +21,6 @@
 /patchouli_data.json
 /usercache.json
 /usernamecache.json
+/servers.dat
+/options.txt
+/knownkeys.txt

@@ -37,6 +37,22 @@ file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "bfa236658868dea2da52974c56e8f44023d6851ab223062ce0b64442fd068917"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "3887f90cbff464ce0564e5ac8cd1c7c013019c3b725a097191408f15ad7142cd"
+
+[[files]]
+file = "config/easy_villagers-client.toml"
+hash = "d09a0b6362e4d8f43caf45df96a7712eda21345625e4473ca42848bcd38326fd"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "9c38c6c61cee2b7ce9ca30abfc1365884eebbdf51705798d71854979d2643923"
 
@@ -59,6 +75,10 @@ hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
 [[files]]
 file = "config/gravestone-client.toml"
 hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
+
+[[files]]
+file = "config/jei-client.toml"
+hash = "f3f154efc2fdf6ae5447072bfe4bae790e768e0b23df1a0ec955b875c2c82968"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -86,7 +106,7 @@ hash = "f7105f137b1ba3c8a47891031e9ff4cb3167d76575fb8502616610833be98842"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
-hash = "f41d6fc7c5fe64dd054313c9ff1da575d2bfe0f4da54546f353f7f642e8d71b7"
+hash = "067a9fdbfd3b8e6b30d3c914d5a887666b77af13f2f727a5f7880388dfa84bc4"
 
 [[files]]
 file = "config/sophisticatedcore-client.toml"
@@ -122,11 +142,11 @@ hash = "6ec5bdab5c65ad66d39698efc43c47ea67d6441a634c14277ef0a303714cbab3"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "f7d86ff5da9cffd4801e0c8cf7c47c4220b839fe5fbbc2e5d9dc4032f7931ed1"
+hash = "5b6d8a29baa9c0f669f6a212890840900b77a01e8d7f65900a59002e2252bfb7"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "78657f79d9749b6aca664faac7cc4843fd2839d136cb30c2c235e215713787af"
+hash = "afec54bc6c2fb2a8847bcc5b8659a283cd08b2ca509786903c281eee5bc7fd3c"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -330,7 +350,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d11326b837826d06340a2695d4d916635cfe2678761f1c839a4537b5ca3b223a"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "3d13f33cf31932d141115b3e349032e67fef88fa8e3b7de90e97c105aa3a51cd"
