@@ -24,6 +24,7 @@ Only list mods on which this modpack directly depends.
 
 ## Utilities
 
+* https://www.curseforge.com/minecraft/mc-mods/default-options
 * https://www.curseforge.com/minecraft/mc-mods/appleskin
 * https://www.curseforge.com/minecraft/mc-mods/carry-on
 * https://www.curseforge.com/minecraft/mc-mods/the-one-probe
