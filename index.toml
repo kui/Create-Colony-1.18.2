@@ -148,22 +148,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "6438b4903ab9cd6fac47ea2cc08d75554f5f94dc6ae794f012160d9231cc935f"
+hash = "6280b2e15c30ff8ed504cae2a9dd9aa5bca660a9442e7f19517d2755155c37a9"
 metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "9bad544fb279411eb5d75a77f33a0b18cb7e1a90a9cd9dabf696c4628afed2ed"
+hash = "6b60c7e5684f803e7d07a00f0b8c73d8ad183f767bbabb024ce7410e0fc4bbdd"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ad3789d2715553129d7b06f31429181564ce1cc0e2c6013387f44ee7f8eb2d18"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-hash = "81ad4e56179d918acb94960a2c6bf569715fe564c49b6b51076b590d3853dc9b"
+hash = "9bad9d1723e9165e54baadf6ddf3bcd74becd1bc74235fbca73ba0d27317f405"
 metafile = true
 
 [[files]]
@@ -203,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
+hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
@@ -212,8 +207,13 @@ hash = "6d300c55dc5fc2470e5534e1b44375691d5fda85dfafcc26b86ee7c73b447f3b"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "9f84fd71dcf5e035523e2d5051d215f8649247a64ecd723228749f4a1533d714"
+hash = "36bae8609f27de678aa819818d8f38dca272c611120b25ced51df2c5381c0349"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d744a20684bcd4c6419386a4f88404e1821a4f984cffc8accfc25f28af8a4097"
+hash = "27cdfd54b3c1982dd11234c7c28ac0eed4b9996f89df0953ef1eec3fc0a17595"
 metafile = true
 
 [[files]]
@@ -268,12 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "a895df4e74926896bb9bebedaf1996037d1f155dddfd7060e5bb51b90808e17c"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
+hash = "840b4fbba0e52bba1805a42e7a1d6faa424a23cc56c4ddeb4ffdffa6407fd0cb"
 metafile = true
 
 [[files]]
@@ -288,12 +283,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ffc23f3ccdf1d04c0856d81cb23bf0120afc50ef8de258354102f3ccfbfebee7"
+hash = "3a9ded6b5eda0e2c88fb2966f3f5f3e3671ff6bfd4c0df2254f0dc5a450ef185"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9ab2a1eeb68ee98b69221c1907527b304dae910f178382d66ddaca6af361d7c7"
+hash = "7743271b7e3435a91b4966a78e0f5bb783a35bb0d5191a7ba924f7ef0c19c795"
 metafile = true
 
 [[files]]
@@ -328,12 +323,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "20448dbeb5645214b3bc8be9a9390041ac69bd08d0bdced9ed740bccdaa9cc8a"
+hash = "34705769206c43cfec5efbdfa03e83c8e45760f01bef03148d9bfc2ccc0b7360"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "190fecdf68f0b26083782f2175a71133e01659a1268390f72749d9d28953569b"
+hash = "d11326b837826d06340a2695d4d916635cfe2678761f1c839a4537b5ca3b223a"
 metafile = true
 
 [[files]]
