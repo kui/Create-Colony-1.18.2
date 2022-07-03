@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9bad9d1723e9165e54baadf6ddf3bcd74becd1bc74235fbca73ba0d27317f405"
+hash = "ec49f4fece980a68335b80adb850b1aa20bd7204346f8e5aea9bbc97d10da608"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9a7b5d7cf2ab9e3a45d4fdaab423c3028967c646b1364b4913cfa83a9df31895"
+hash = "23d42c3cbba7d75008cd3e7c15d347fac29a97bcb832d9768d75e7a5a457cc09"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "75976d5b9171e45912039c6b82ef4046335ccaf0e91be41a3551bf5dd4794199"
+hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "27cdfd54b3c1982dd11234c7c28ac0eed4b9996f89df0953ef1eec3fc0a17595"
+hash = "726d308c8907fded951c3d09a7b386521f9176c5ae84b239b1438b08af8c9936"
 metafile = true
 
 [[files]]
