@@ -43,3 +43,4 @@ Only list mods on which this modpack directly depends.
 * https://www.curseforge.com/minecraft/mc-mods/spark
 * https://www.curseforge.com/minecraft/mc-mods/better-advancements
 * https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+* https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next

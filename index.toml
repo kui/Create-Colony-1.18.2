@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ec49f4fece980a68335b80adb850b1aa20bd7204346f8e5aea9bbc97d10da608"
+hash = "8b968377c79f5b3069319f1b39b22460c6fb08233a12d27dfb2819833cdc8e47"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "23d42c3cbba7d75008cd3e7c15d347fac29a97bcb832d9768d75e7a5a457cc09"
+hash = "f25e761800b8b0844519ebb4f2a3aa2faef744212fcc250a9301b592cf0f0e91"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "73d644b07a288484efb86cd033389a79a21664381932aa429cfd97913c4d91c9"
+hash = "0f2c61de3d5e544dc9d6b52749c61cbb1322568cdcd8eb18721063a4387b57eb"
 metafile = true
 
 [[files]]
@@ -259,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "7638c6fcf4af1039a9c99717ce8fb029ba7e7bec473994565e743d26da44a516"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "a966abd4816315bc7f43473c8d3fe8d46c476d87bd33c26d0843c532bffc5952"
 metafile = true
 
 [[files]]
@@ -348,5 +353,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d11326b837826d06340a2695d4d916635cfe2678761f1c839a4537b5ca3b223a"
+hash = "1f8cc9461ca4df22deffc40d785cfde26f4e04e1a2759601d4638d84ceaa8f38"
 metafile = true
